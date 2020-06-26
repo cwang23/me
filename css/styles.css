@@ -1,0 +1,33 @@
+body {
+  background-color: #ffdd7e;
+  font-family: "DengXian";
+  color: #2b2d2f;
+}
+
+h1 h2 h3 h4 h5 h6{
+  color: #2b2d2f;
+}
+
+a:link {
+  color: #2b2d2f;
+  text-decoration-style: dashed;
+}
+
+a:visited {
+  color: #2b2d2f;
+}
+
+a:hover {
+  color: #f3f3f3;
+  background-color: #e95280;
+  padding: 5px;
+}
+
+hr {
+  border-color: #f3f3f3;
+  border-style: none;
+  border-top-style: solid;
+  border-width: 3px;
+  height: 0px;
+  width: 90%;
+}
