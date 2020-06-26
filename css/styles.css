@@ -5,6 +5,7 @@ body {
 }
 
 h1 h2 h3 h4 h5 h6{
+  font-family: "DengXian";
   color: #2b2d2f;
 }
 
@@ -18,9 +19,10 @@ a:visited {
 }
 
 a:hover {
+  transition: .2s;
   color: #f3f3f3;
   background-color: #e95280;
-  padding: 5px;
+  padding: 3px;
 }
 
 hr {
